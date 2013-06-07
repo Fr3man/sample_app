@@ -5,6 +5,12 @@ development:
   username: alexanderkonovalov
   database: alexanderkonovalov
 
+test:
+  adapter: postgresql
+  host: localhost
+  username: alexanderkonovalov
+  database: alexanderkonovalov
+
 # SQLite version 3.x
 #   gem install sqlite3
 #
